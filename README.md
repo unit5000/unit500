@@ -18,3 +18,4 @@ Just add your name and favourite quote to the document.
 9. Greattrump - Life is ambigous dont be afraid to adapt and change
 10. Reader641 - "Having eyes and not seeing Mount Tai"
 11. Isaiah - "Redefining Limits"
+12. J3ssva - "Success is the sum of small efforts, repeated day in and day out."
